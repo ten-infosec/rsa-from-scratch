@@ -81,6 +81,9 @@ n = 61 × 53 = 3233, phi = 3120
 
 - [Wireshark로 내 브라우저의 양자내성암호(ML-KEM) 확인하기](notes/2026-09-26_tls-pqc-wireshark.md): 직접 만든 RSA에서 실제 브라우저의 X25519MLKEM768 하이브리드 키 교환까지
 
+- [PQC 커리큘럼 로드맵](notes/pqc-roadmap.md): 정수론부터 암호화 가속까지 Stage 1~9 학습 목차
+
+
 
 ## 배운 것
 
